@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - purple
+  - green
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Platform
+  - Player
+  - Front
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 542535117
+    locked: 0
+  - name: Tiles
+    uniqueID: 2909831491
+    locked: 0
+  - name: Player
+    uniqueID: 625748297
+    locked: 0
+  - name: Front
+    uniqueID: 2661690029
+    locked: 0
+  - name: UI
+    uniqueID: 4251285949
+    locked: 0
